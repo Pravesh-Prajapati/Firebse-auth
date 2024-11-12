@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "8297",
+      "email": "praveshprajapati708154@gmail.com",
+      "password": "12345",
+      "hobby": [
+        "singing",
+        "dancing"
+      ],
+      "UID": "JKa8Sfz8myRECMaAUpc1DWEkLxO2"
+    },
+    {
+      "id": "c34e",
+      "email": "praveshprajapati708154@gmail.com",
+      "password": "12345",
+      "hobby": [
+        "singing",
+        "dancing"
+      ],
+      "UID": "RIkJdp4r7wU58HWD4X4uR7jdnTA3"
+    },
+    {
+      "id": "1ae4",
+      "email": "ram@gmail.com",
+      "password": "1234",
+      "hobby": [
+        "eating"
+      ],
+      "UID": "sAJvQlUXGdWnmDlcwkqKjpHShc63"
+    },
+    {
+      "id": "27d3",
+      "email": "8009988130@gmail.com",
+      "password": "111",
+      "hobby": [
+        "singing"
+      ],
+      "UID": "sAJvQlUXGdWnmDlcwkqKjpHShc63"
+    }
+  ]
+}
